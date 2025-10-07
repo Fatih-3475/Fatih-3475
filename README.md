@@ -1,5 +1,6 @@
 
-**Fatih-3475/Fatih-3475# Merhaba! Ben Fatih KORKMAZ 👋
+**Fatih-3475/Fatih-3475#
+Merhaba! Ben Fatih KORKMAZ 👋
 
 Ön lisans öğrencisi olarak **Full Stack Geliştirici** olma yolunda ilerleyen tutkulu bir öğrenciyim. Akademik bilgilerimi hızla pratik projelere dönüştürmeye odaklanmış durumdayım.
 
