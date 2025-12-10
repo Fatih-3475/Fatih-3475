@@ -8,18 +8,6 @@ Sürekli öğrenmeye ve sektörün dinamiklerine ayak uydurmaya kararlıyım. Am
 
 ---
 
-### 💻 Şu Anki Odak Noktam
-
-Şu anki öğrenme ve uygulama alanlarım:
-
-* **Frontend Temelleri:** HTML, CSS ve JavaScript ile dinamik web sayfaları oluşturma.
-* **Backend Yolculuğu:** Sunucu tarafında mantık kurmayı ve API geliştirmeyi öğreniyorum.
-* **Proje Uygulamaları:** Küçük projelerle **temiz kod** yazma pratikleri yapıyorum.
-
-| **Öğrenme Aşamasında** | **[Örn: React/Vue, Node.js/Python, MongoDB/PostgreSQL]** |
-| **Temel Bilgiler** | HTML5, CSS3, Vanilla JavaScript, Git |
-| **Hedef Alan** | Tam donanımlı bir Full Stack MERN/MEAN Geliştiricisi olmak. |
-
 ### 🤝 Benimle İletişime Geç
 
 Açık kaynak projelerine katkı sağlamayı, fikir alışverişinde bulunmayı ve yeni fırsatları değerlendirmeyi çok isterim.
