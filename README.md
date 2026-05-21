@@ -1,10 +1,9 @@
 
-**Fatih-3475/Fatih-3475#
 Merhaba! Ben Fatih KORKMAZ 👋
 
-Ön lisans öğrencisi olarak **Full Stack Geliştirici** olma yolunda ilerleyen tutkulu bir öğrenciyim. Akademik bilgilerimi hızla pratik projelere dönüştürmeye odaklanmış durumdayım.
 
-Sürekli öğrenmeye ve sektörün dinamiklerine ayak uydurmaya kararlıyım. Amacım, **hem kullanıcı deneyimi güçlü arayüzler hem de sağlam backend servisleri** geliştirebilmek.
+Ön lisans öğrencisi olarak Backend Developer ve AI entegrasyonu alanına odaklanan tutkulu bir yazılım geliştiriciyim. Akademik süreçte edindiğim bilgileri gerçek dünya projelerine dönüştürmeye çalışıyorum.
+Amacım; sağlam ve ölçeklenebilir backend sistemler geliştirirken yapay zeka araçlarını bu sistemlere entegre eden çözümler üretmek. Sürekli öğrenmeye ve sektörün dinamiklerini yakından takip etmeye kararlıyım.
 
 ---
 
